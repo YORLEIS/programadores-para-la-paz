@@ -1,0 +1,10 @@
+Cuando usamos internet de forma responsable, estamos tomando decisiones conscientes sobre qué información compartimos, cómo la verificamos y de qué manera afecta a los demás.
+Esa misma conciencia es la que necesitamos como ciudadanos: participar, opinar y actuar pensando en el bien común, no solo en el beneficio propio. 
+En ese sentido, ser un buen ciudadano digital y un buen ciudadano en general tienen mucho en común: los dos requieren responsabilidad, respeto y colaboración.
+
+Git entra en esta misma lógica, pero en el mundo del trabajo técnico. Cuando un equipo usa Git, cada persona registra los cambios que hace, explica por qué los hizo y trabaja sin borrar el trabajo de los demás. 
+Eso es exactamente lo que debería pasar en una comunidad: que cada quien aporte, que haya transparencia en las decisiones y que se pueda volver atrás si algo sale mal. 
+Git no es solo una herramienta para programadores; es casi una forma de organizarse con orden y respeto.
+
+En definitiva, las tres ideas están conectadas por un hilo común: la responsabilidad.
+Ya sea al buscar información en internet, al votar o expresar una opinión, o al colaborar en un proyecto de código, lo que marca la diferencia es actuar con cuidado, pensando en cómo nuestras acciones impactan a los demás.
