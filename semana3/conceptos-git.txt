@@ -1,0 +1,14 @@
+Repositorio:
+Un repositorio es un espacio donde se almacena y organiza todo el contenido de un proyecto digital, como archivos, imágenes, carpetas y código. 
+Funciona como una especie de historial que permite guardar cada cambio realizado durante el desarrollo. 
+Además, facilita el trabajo en equipo porque varias personas pueden acceder al mismo proyecto y colaborar de manera ordenada.
+
+Commit:
+Un commit es una acción que permite guardar los cambios realizados en un proyecto dentro del repositorio. 
+Cada commit incluye un mensaje corto que explica qué se modificó, por ejemplo, “se agregó el formulario de registro” o “se corrigió un error”. 
+Esto ayuda a llevar un control del progreso y a identificar fácilmente las modificaciones hechas en diferentes momentos.
+
+Push:
+El push es el proceso de enviar los cambios guardados localmente hacia una plataforma remota como GitHub. 
+Gracias a esta acción, el proyecto se actualiza en línea y otros integrantes del equipo pueden ver los avances realizados. 
+Es una parte importante del trabajo colaborativo, ya que permite compartir el progreso y mantener el repositorio sincronizado.
