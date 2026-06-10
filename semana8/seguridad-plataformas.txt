@@ -1,0 +1,5 @@
+1. Implementar autenticación en dos pasos para los usuarios.
+2. Realizar copias de seguridad periódicas de la información almacenada.
+3. Mantener actualizados los sistemas y aplicaciones de la plataforma.
+4. Verificar y validar los datos ingresados por los usuarios para evitar ataques.
+5. Asignar permisos según el rol de cada usuario dentro de la comunidad.
