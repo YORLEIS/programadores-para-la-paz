@@ -1,0 +1,3 @@
+Cuando consulté la ruta GET /reportes, el servidor me devolvió una lista con los reportes registrados. 
+En la respuesta pude ver el identificador, el tipo de reporte y su descripción. 
+Esto permite consultar la información que ha sido almacenada previamente mediante las solicitudes POST.
