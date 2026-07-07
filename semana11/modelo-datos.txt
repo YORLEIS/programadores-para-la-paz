@@ -1,0 +1,28 @@
+Modelo de datos para una plataforma comunitaria
+
+Entidad: Usuario
+
+Campos principales:
+
+* id
+* nombre
+* correo
+* contraseña
+* fecha_registro
+
+Propósito:
+Almacenar la información básica de las personas registradas en la plataforma para permitir su autenticación y participación en las actividades de la comunidad.
+
+Entidad: Iniciativa
+
+Campos principales:
+
+* id
+* titulo
+* descripcion
+* categoria
+* fecha_publicacion
+* usuario_id
+
+Propósito:
+Registrar las iniciativas o propuestas creadas por los usuarios para que puedan ser consultadas, apoyadas y gestionadas dentro de la plataforma.
