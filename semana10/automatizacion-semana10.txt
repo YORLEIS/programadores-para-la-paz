@@ -1,0 +1,13 @@
+AUTOMATIZACIÓN CON N8N Y TELEGRAM
+
+¿Qué evento activa el flujo?
+
+El flujo se activa cuando se programa una nueva reunión o actividad de la comunidad.
+
+¿Qué mensaje se enviaría a Telegram?
+
+"Se ha programado una nueva actividad comunitaria. Consulta la plataforma para conocer la fecha y los detalles."
+
+¿Qué información no debería enviarse por seguridad?
+
+No se deben compartir datos personales de los participantes, como documentos de identidad, direcciones, teléfonos, correos electrónicos, contraseñas o cualquier otra información confidencial.

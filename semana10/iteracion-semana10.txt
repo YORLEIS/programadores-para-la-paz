@@ -1,0 +1,18 @@
+ITERACIÓN 1
+
+¿Qué 2 tareas del backlog harías primero?
+
+1. Aprobar o rechazar los reportes recibidos.
+2. Permitir que los voluntarios puedan asignarse un caso para darle seguimiento.
+
+¿Por qué son las más importantes?
+
+Porque primero es necesario confirmar que los reportes sean válidos. Después de eso, los casos pueden ser asignados a un voluntario para que comiencen a ser atendidos sin retrasos.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+
+Para mí, una tarea está terminada cuando:
+
+- Cumple con lo que se esperaba.
+- Se revisó y funciona correctamente.
+- Quedó guardada y actualizada en el repositorio de Git.

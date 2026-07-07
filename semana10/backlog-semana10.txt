@@ -1,0 +1,11 @@
+BACKLOG PRIORIZADO
+
+1. Como líder de veeduría quiero aprobar o rechazar los reportes recibidos para garantizar que la información sea válida antes de darle seguimiento.
+
+2. Como voluntario quiero asignarme un caso disponible para colaborar en su revisión y resolución.
+
+3. Como integrante de la comunidad quiero consultar el estado general de las solicitudes para conocer el avance de las acciones realizadas.
+
+4. Como administrador quiero generar un resumen de los reportes atendidos para evaluar el desempeño del equipo y planificar mejoras.
+
+5. Como participante de la comunidad quiero recibir un aviso cuando se publique un informe de resultados para mantenerme informado sobre las actividades de la veeduría.
