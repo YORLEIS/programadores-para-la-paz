@@ -1,0 +1,11 @@
+1. El ciudadano ingresa a la plataforma y crea una causa explicando la situación que desea presentar.
+
+2. La información registrada se guarda para que la petición pueda ser consultada.
+
+3. Las personas interesadas revisan la causa y deciden si desean mostrar su apoyo.
+
+4. Cada apoyo recibido se registra y el contador se actualiza automáticamente.
+
+5. Con los datos de la causa, la plataforma prepara la información necesaria para formalizar la solicitud.
+
+6. Finalmente, el sistema genera un documento PDF que puede ser compartido o presentado ante la entidad correspondiente.

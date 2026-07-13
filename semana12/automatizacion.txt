@@ -1,0 +1,9 @@
+Automatización con Telegram
+
+Evento: La automatización se activa cuando una causa recibe un nuevo apoyo en la plataforma.
+
+Mensaje: “Una causa de la comunidad ha recibido un nuevo apoyo y continúa avanzando”.
+
+Información que no debe enviarse: Por seguridad, se deben evitar nombres completos, documentos de identidad, números de teléfono, direcciones y cualquier información privada de los ciudadanos.
+
+Esta automatización permite informar sobre la actividad de las causas sin exponer los datos personales de quienes participan.

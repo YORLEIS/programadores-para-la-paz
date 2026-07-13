@@ -1,0 +1,19 @@
+Modelo de datos de Petición en 3 Clics
+
+Entidad Causa
+
+- id: Código que permite identificar cada causa.
+- titulo: Nombre con el que se presenta la iniciativa.
+- descripcion: Explica la situación o motivo por el cual fue creada.
+- fecha: Indica el día en que se registró.
+
+La entidad Causa sirve para organizar la información principal de las peticiones creadas por los ciudadanos.
+
+Entidad Apoyo
+
+- id: Código asignado a cada apoyo.
+- causa_id: Permite saber a qué causa pertenece.
+- nombre: Guarda el nombre de la persona que decidió apoyar.
+- fecha: Indica cuándo se realizó el apoyo.
+
+La entidad Apoyo permite llevar un control de las personas que respaldan una iniciativa y relacionar su participación con la causa correspondiente.
